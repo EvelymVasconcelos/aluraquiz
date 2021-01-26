@@ -34,16 +34,16 @@ export default function Home() {
       <QuizContainer>
         <Widget>
           <Widget.Header>
-            <h1>ffffffffff</h1>          
+            <h1>Alura Quiz</h1>          
           </Widget.Header>
           <Widget.Content>
-            <p>ffffffffff</p>
+            <p>Lorem Ipsum is simply....</p>
           </Widget.Content>
         </Widget>
         <Widget>
           <Widget.Content>
-            <p>ffffffffff</p>          
-            <p>ffffffffff</p>
+            <p>Quiz da galera</p>          
+            <p>Lorem Ipsum is simply......</p>
           </Widget.Content>
         </Widget>
         <Footer/>
