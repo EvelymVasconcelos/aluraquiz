@@ -26,6 +26,18 @@
            "Era uma Vez em... Hollywood",
            "Bastardos Inglórios"
         ]
+      },
+      {
+        "image": "https://cdn5.colorir.com/desenhos/pintar/cachorro-de-poodle.png",
+        "title": "Segura o meu poodle",
+        "description": "Essa não como não rir. De qual fime é a fala?",
+        "answer": 3,
+        "alternatives": [
+           "Meninas Malvadas",
+           "As Patricinhas de Beverly Hills",
+           "MIB - Homens de Preto",
+           "As Branquelas"
+        ]
       }
     ],
     "external": [
