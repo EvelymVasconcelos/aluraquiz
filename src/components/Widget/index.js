@@ -37,7 +37,6 @@ Widget.Header = styled.header`
 Widget.Content = styled.div`
   padding: 24px 32px 32px 32px;
   background-color: ${({ theme }) => theme.colors.mainBg};
-  opacity: 0.9;
   & > *:first-child {
     margin-top: 0;
   }
@@ -54,7 +53,7 @@ Widget.Topic = styled.a`
   outline: 0;
   text-decoration: none;
   color: ${({ theme }) => theme.colors.contrastText};
-  background-color: ${({ theme }) => `${theme.colors.primary}40`};
+  background-color: ${({ theme }) => `${theme.colors.primary}95`};
   padding: 10px 15px;
   margin-bottom: 8px;
   cursor: pointer;
